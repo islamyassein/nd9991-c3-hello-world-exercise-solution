@@ -1,0 +1,5 @@
+[ubuntu]
+ec2-44-202-247-89.compute-1.amazonaws.com
+
+[all]
+ec2-44-202-247-89.compute-1.amazonaws.com
